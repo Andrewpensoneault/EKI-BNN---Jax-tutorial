@@ -19,10 +19,11 @@ To follow this tutorial, you should have a basic understanding of:
 - Neural networks
 - JAX
 
+For a general guide on how to utilize JAX, see [here](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html).
+
 # Installation
 To install the required packages, run the following command:
 `pip install -r requirements.txt`
 
 Additionally, for instructions on how to install the GPU version of JAX, see the installation guide [here](https://github.com/google/jax#installation).
 
-For a general guide on how to utilize JAX, see [here](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html).
