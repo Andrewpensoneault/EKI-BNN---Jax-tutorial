@@ -11,7 +11,7 @@ Bayesian Neural Networks (BNNs) provide a principled approach to quantify uncert
 
 The Ensemble Kalman Inversion (EKI) is a computationally efficient algorithm for performing approximate Bayesian Inference. It is based on the Ensemble Kalman Filter (EnKF) and has been proven to be effective for high-dimensional inverse problems. EKI approximates the posterior distribution of the weights using an ensemble of samples and iteratively updates these samples to better match the observed data.
 
-The implementation for this approach is loosely based off the following reference
+The implementation for this approach is loosely based off the following references:
 
 - [Ensemble Kalman Inversion: A Derivative-Free Technique For Machine Learning Tasks
 ](https://arxiv.org/abs/1808.03620)
