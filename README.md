@@ -14,6 +14,7 @@ The Ensemble Kalman Inversion (EKI) is a computationally efficient algorithm for
 # Prerequisites
 To follow this tutorial, you should have a basic understanding of:
 
+- Probability
 - Python programming
 - Linear algebra
 - Neural networks
